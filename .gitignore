@@ -1,0 +1,35 @@
+# Ignore local model weights and downloaded LLM files
+/models/
+*.gguf
+
+# Ignore generated retrieval data and indexes
+/data/faiss_index/
+/data/embeddings/
+/data/wikipedia_processed/*.npy
+/data/wikipedia_processed/*.jsonl
+/data
+# Ignore local Hugging Face cache and temporary download artifacts
+/.cache/
+/.huggingface/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.venv/
+env/
+
+# Test and editor temporary files
+.pytest_cache/
+*.log
+*.tmp
+*.swp
+*.swo
+
+# VS Code settings and workspace files
+.vscode/
