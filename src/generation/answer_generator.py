@@ -51,6 +51,60 @@ def get_llm() -> Llama:
     return _llm
 
 
+def build_validation_prompt(question, evidence_chunks):
+
+    evidence_text = ""
+
+    for i, chunk in enumerate(evidence_chunks, 1):
+        body = _truncate(chunk["text"], MAX_EVIDENCE_CHARS_PER_CHUNK)
+        evidence_text += f"\nEvidence {i}:\n"
+        evidence_text += f"Title: {chunk['title']}\n"
+        evidence_text += f"Section: {chunk['section']}\n"
+        evidence_text += f"Text: {body}\n"
+
+    prompt = f"""
+You are an academic question answering system.
+
+Your task is to analyze whether the provided question can be answered using ONLY the given evidence.
+
+Question:
+{question}
+
+Evidence:
+{evidence_text}
+
+Analysis:
+- Determine if the evidence contains sufficient information to answer the question.
+- Consider if the question requires specific facts, dates, names, or concepts that are present in the evidence.
+- Do not use any external knowledge or assumptions.
+
+Respond with ONLY one of these two options:
+- "ANSWERABLE" if the evidence supports answering the question.
+- "NOT_ANSWERABLE" if the evidence is insufficient.
+"""
+
+    return prompt
+
+
+def validate_answerability(question, evidence_chunks):
+    """Use LLM to determine if the question can be answered with the provided evidence."""
+    if not evidence_chunks:
+        return False
+    
+    prompt = build_validation_prompt(question, evidence_chunks)
+    llm = get_llm()
+
+    response = llm(
+        prompt,
+        max_tokens=50,  # Short response
+        stop=["</s>"],
+        temperature=0.1,  # Low temperature for consistency
+    )
+
+    result = response["choices"][0]["text"].strip().upper()
+    return "ANSWERABLE" in result
+
+
 def build_prompt(question, evidence_chunks):
 
     evidence_text = ""
@@ -69,8 +123,7 @@ RULES (must follow strictly):
 - Use ONLY the provided evidence.
 - Do NOT use prior knowledge.
 - Do NOT guess or assume.
-- If the answer is not supported by the evidence, say:
-  "Insufficient evidence to answer this question."
+- Provide a concise and accurate answer based solely on the evidence.
 
 Question:
 {question}
@@ -87,6 +140,10 @@ Based ONLY on the evidence above, provide a concise and accurate answer.
 
 def generate_answer(question, evidence_chunks):
 
+    # First, validate if the question can be answered
+    if not validate_answerability(question, evidence_chunks):
+        return "Insufficient evidence to answer this question."
+    
     prompt = build_prompt(question, evidence_chunks)
     llm = get_llm()
 

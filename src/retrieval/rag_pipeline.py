@@ -172,15 +172,6 @@ def run_rag(question):
             "alignment_passed": None,
         }
 
-    if not is_answerable(question, evidence, embedder):
-        return {
-            "answer": "Insufficient evidence to answer this question.",
-            "confidence": "Very Low",
-            "evidence": evidence,
-            "alignment_score": None,
-            "alignment_passed": None,
-        }
-
     answer = generate_answer(question, evidence)
     confidence = compute_confidence(scores)
 

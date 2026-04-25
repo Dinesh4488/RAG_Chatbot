@@ -1,0 +1,1962 @@
+[
+  {
+    "qid": 1,
+    "question": "What does the section \"Introduction:\" say about Not Again SU?",
+    "ground_truth_answer": "The hashtag and student led organization #NotAgainSU began circulating after several racist incidents occurred on the campus of Syracuse University, during the academic course of 2019-2021.",
+    "predicted_answer": "Answer:\n\nThe section \"Introduction:\" is not present in the provided evidence. The first part is about Editorconfig specifications, the second part is about BBWAA election in 1960, and the third part is about the World Final in 1998 Speedway World Team Cup.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "Moderate",
+    "alignment_score": 0.6699802279472351,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 2,
+    "question": "Who is Juan Benet (computer scientist)?",
+    "ground_truth_answer": "Juan Benet (born March 1988) is an American computer scientist.",
+    "predicted_answer": "Answer:\nJuan Benet is an American computer scientist who founded and serves as the CEO of Protocol Labs. He designed the InterPlanetary File System (IPFS) and Filecoin, and previously was the CTO of Loki Studios. Benet founded Protocol Labs in 2014 and went through Y-Combinator to support its development. He also developed the SAFT legal framework and founded CoinList.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9447680115699768,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 3,
+    "question": "What is 1906 Minnesota Senate election?",
+    "ground_truth_answer": "The 1906 Minnesota Senate election was held in the U.S.",
+    "predicted_answer": "Answer:\nThe 1906 Minnesota Senate election was held on November 6, 1906, to elect members to the Senate of the 35th and 36th Minnesota Legislatures. The Minnesota Republican Party won a large majority of seats. The new Legislature convened on January 8, 1907. There is no information about the 1906 Montana football team in the given evidence.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.8877878189086914,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 4,
+    "question": "Who is Li Cong (astronaut)?",
+    "ground_truth_answer": "Lieutenant colonel Li Cong (Chinese: \u674e\u806a; born October 1989) is a Chinese fighter pilot and People's Liberation Army Astronaut Corps (PLAAC) taikonaut.",
+    "predicted_answer": "Answer:\nLi Cong is a Chinese fighter pilot and a taikonaut in the People's Liberation Army Astronaut Corps (PLAAC), born in October 1989 in Handan, Hebei. He previously served as a Lieutenant colonel in the Air Force Aviation Brigade and was a second class pilot in the People's Liberation Army Air Force. He participated in the astronaut selection in May 2018 and was selected as a fourth grade astronaut into the PLAAC in September 2020.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.8993291854858398,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 5,
+    "question": "What is Fashion Design?",
+    "ground_truth_answer": "Fashion designers 'Fashion designers work in a variety of different ways when designing their pieces and accessories such as rings, bracelets, necklaces and earrings.",
+    "predicted_answer": "Answer:\nFashion design is the process of creating clothing, accessories, and garments through various methods, such as drawing, computer design, or draping fabric onto a mannequin. Fashion designers are responsible for creating unique looks involving shape, color, fabric, trimming, and more. The design process is unique to each designer and can involve using apps and software to expand ideas. Fashion designers may work full-time for a fashion house, freelance, or set up their own label, selling designs to various clients or manufacturers. Due to the time required to bring a garment to market, fashion",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9007011651992798,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 6,
+    "question": "Who is 1906 Mississippi hurricane?",
+    "ground_truth_answer": "The 1906 Mississippi hurricane was a deadly and destructive hurricane during the 1906 Atlantic hurricane season.",
+    "predicted_answer": "Answer:\n\nThe 1906 Mississippi hurricane was a destructive and deadly storm that made landfall near Pascagoula, Mississippi, during the evening of September 27, 1906. It was a major hurricane with maximum sustained winds of 115 mph (185 km/h) when it reached the Gulf of Mexico. The hurricane caused extensive damage and resulted in at least 134 deaths and over $19,221,000 in damages.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9139819741249084,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 7,
+    "question": "Who is 1214 Richilde?",
+    "ground_truth_answer": "1214 Richilde, provisional designation 1932 AA, is a dark background asteroid from the central regions of the asteroid belt, approximately 35 kilometers in diameter.",
+    "predicted_answer": "Answer:\n1214 Richilde is an asteroid approximately 35 kilometers in diameter, discovered in 1932 by Max Wolf at the Heidelberg-K\u00f6nigstuhl State Observatory. There is no evidence in the provided text that the asteroid's name is associated with a person named Richilde.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.8773115873336792,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 8,
+    "question": "What is 1913 Tour of Flanders?",
+    "ground_truth_answer": "The first edition of the Tour of Flanders, a cycling race in Belgium, was held on 25 May 1913.",
+    "predicted_answer": "Answer:\n\nThe 1913 Tour of Flanders was a cycling race held in Belgium on 25 May 1913, while the 1913 Tour de France was an unrelated cycling event that took place in France from 29 June to 27 July 1913. Paul Deman won the inaugural Tour of Flanders, which was organized by sports newspaper Sportwereld and had no connection to the Tour de France.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.8829337954521179,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 9,
+    "question": "What is 1913 U.S. National Championships \u2013 Men's singles?",
+    "ground_truth_answer": "Maurice McLoughlin defeated R. Norris Williams 6\u20134, 5\u20137, 6\u20133, 6\u20131 in the final to win the men's singles tennis title at the 1913 U.S. National Championships. The event was held at the Newport Casino i",
+    "predicted_answer": "Answer: Maurice McLoughlin won the Men's singles title at the 1913 U.S. National Championships, defeating R. Norris Williams in the final. The event took place at the Newport Casino in Newport, R.I. in the United States.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9219276905059814,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 10,
+    "question": "Who is 'Cause I'm a Man?",
+    "ground_truth_answer": "\" ' Cause I'm a Man \" is a song by Australian musical project Tame Impala, released on 7 April 2015 as the second single from their third studio album Currents.",
+    "predicted_answer": "Answer:\n'Cause I'm a Man' is a song by Tame Impala, released as the second single from their third studio album Currents in 2015. The song was described by Kevin Parker, the project's lead artist, as being about the weaknesses of men and the excuses they make. Parker's clearer vocals in the song were the result of his love for a dreamy, silvery sound. Despite the potential perception of sexism or misogyny, Parker clarified that he is not sexist and was excited about possibly ruffling some fe",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.8877856135368347,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 11,
+    "question": "Who is 130th Engineer Battalion?",
+    "ground_truth_answer": "The 130th Engineer Battalion (130th EN BN) is a combat engineer battalion of the Puerto Rico Army National Guard allocated to the 101st Troop Command.",
+    "predicted_answer": "Answer:\nThe 130th Engineer Battalion is a combat engineer battalion of the Puerto Rico Army National Guard.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.8895099759101868,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 12,
+    "question": "What is 1904\u201305 IPHL season?",
+    "ground_truth_answer": "The 1904\u201305 IPHL season was played by teams of the International Professional Hockey League.",
+    "predicted_answer": "Answer:\nThe 1904\u201305 IPHL season was the inaugural season of the International Professional Hockey League, during which the Calumet-Laurium Miners won the league title.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9527947902679443,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 13,
+    "question": "Who is 1926 Darlington by-election?",
+    "ground_truth_answer": "The 1926 Darlington by-election was a by-election held on 17 February 1926 for the British House of Commons constituency of Darlington in County Durham.",
+    "predicted_answer": "Answer:\nThe 1926 Darlington by-election was a British House of Commons election held on 17 February 1926, following the death of sitting Conservative MP William Pease. The Labour Party was represented by 42-year-old Arthur Shepherd, while E. H. Pease contested the seat for the Conservatives. Shepherd had previously lost to William Pease in the 1924 Darlington election.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.8878841996192932,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 14,
+    "question": "What is 1946 Soviet Union legislative election?",
+    "ground_truth_answer": "Elections to the Supreme Soviet were held in the Soviet Union on 10 February 1946.",
+    "predicted_answer": "Answer:\nThe 1946 Soviet Union legislative election was held on 10 February, and approximately 69.7% of the eligible population was able to vote. This was the first election where members of the Red Army stationed outside the Soviet Union were allowed to vote for both chambers of the Supreme Soviet. No information was provided about the results of the election in the given evidence. The evidence also mentions the 1946 Soviet Cup and 1946 Soviet First League, but these are unrelated to the legislative election.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9030494689941406,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 15,
+    "question": "What is 1958\u201359 Iowa State Cyclones men's basketball team?",
+    "ground_truth_answer": "The 1958\u201359 Iowa State Cyclones men's basketball team represented Iowa State University during the 1958-59 NCAA University Division men's basketball season.",
+    "predicted_answer": "Answer:\nThe 1958\u201359 Iowa State Cyclones men's basketball team was the Iowa State University basketball team during the 1958-59 NCAA University Division season. They were coached by Bill Strannigan and played their home games at the Iowa State Armory in Ames, Iowa. No other specific details about their season, such as their record or conference affiliation, are provided in the evidence.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9470304846763611,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 16,
+    "question": "Who is 1951 St. Bonaventure Bonnies football team?",
+    "ground_truth_answer": "The 1951 St. Bonaventure Brown Indians football team was an American football team that represented St. Bonaventure University during the 1951 college football season. In its second season under head",
+    "predicted_answer": "Answer:\nThe 1951 St. Bonaventure Bonnies football team, also referred to as the St. Bonaventure Brown Indians, was an American football team that represented St. Bonaventure University during the 1951 college football season. The team was led by head coach Joe Bach and compiled a 5\u20134 record, scoring 218 points while allowing 175 points. The team played its home games at Forness Stadium in Olean, New York.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9110945463180542,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 17,
+    "question": "What is 1957\u201358 Ranji Trophy?",
+    "ground_truth_answer": "The 1957\u201358 Ranji Trophy was the 24th season of the Ranji Trophy.",
+    "predicted_answer": "Answer:\nThe 1957\u201358 Ranji Trophy was the 24th season of the Ranji Trophy cricket tournament in India. Baroda won the title by defeating Services in the final. Vidarbha made their debut in the competition.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9324257373809814,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 18,
+    "question": "What is 1937 Philippine women's suffrage plebiscite?",
+    "ground_truth_answer": "A plebiscite was held in the Philippines on April 30, 1937, to decide whether or not women could vote.",
+    "predicted_answer": "Answer:\nThe 1937 Philippine women's suffrage plebiscite was an event in which Filipino women voted to determine whether they would be granted the right to vote. Women's suffrage movements had been ongoing since 1910, and the plebiscite, held on April 30, 1937, resulted in a victory for women's rights with 447,725 out of 500,000 votes in favor. Following the passage of this right, Filipino women participated in the local elections of 19",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9657699465751648,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 19,
+    "question": "What is 1927 TCU Horned Frogs football team?",
+    "ground_truth_answer": "The 1927 TCU Horned Frogs football team represented Texas Christian University (TCU) as a member the Southwest Conference (SWC) during the 1927 college football season.",
+    "predicted_answer": "Answer:\nThe 1927 TCU Horned Frogs football team was a college football team that represented Texas Christian University (TCU) as a member of the Southwest Conference (SWC) during the 1927 season. The team had an overall record of 4-3-2 and a conference record of 1-2-2, which placed them fifth in the SWC. The team was led by fifth-year head coach Matty Bell and played their home games at Clark Field in Fort Worth, Texas.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9538178443908691,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 20,
+    "question": "What is 1949 St. Louis Browns season?",
+    "ground_truth_answer": "The 1949 St. Louis Browns season involved the Browns finishing 7th in the American League with a record of 53 wins and 101 losses.",
+    "predicted_answer": "Answer:\nThe 1949 St. Louis Browns season resulted in a record of 53 wins and 101 losses, placing them 7th in the American League.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9031400084495544,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 21,
+    "question": "Who is House Arrest (Bulgarian TV series)?",
+    "ground_truth_answer": "House Arrest (Bulgarian: \u0414\u043e\u043c\u0430\u0448\u0435\u043d \u0430\u0440\u0435\u0441\u0442, romanized: Domashen arest) is a Bulgarian sitcom aired on bTV and produced by bTV Studios.",
+    "predicted_answer": "Answer:\nHouse Arrest is a Bulgarian sitcom aired on bTV, produced by bTV Studios, and marked the dawn of a new generation of Bulgarian cinema and television. The series is based on the model of American sitcoms such as Everybody Loves Raymond, Two and a Half Men, and Friends. The production directors are Peter Valchanov and Nikolay Penchev, among others, and the chief operator is Grigor Kumitski.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9304344654083252,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 22,
+    "question": "What is 1947 Danish Folketing election?",
+    "ground_truth_answer": "Folketing elections were held in Denmark on 28 October 1947, except in the Faroe Islands where they were held on 18 February 1948.",
+    "predicted_answer": "Answer:\nThe 1947 Danish Folketing election took place on 28 October, except in the Faroe Islands where it was held on 18 February 1948. The Social Democratic Party secured the most seats with 57 out of 150. The voter turnout in Denmark was 86% and in the Faroes, it was 60%. Unlike the Folketing election, the Landsting elections were held in March and April 1947. The public elected members of the electoral college on 1 April, who",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9606069922447205,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 23,
+    "question": "Who is Vaibhav Gehlot (Rajasthan)?",
+    "ground_truth_answer": "Vaibhav Gehlot (born 2 June 1980) is an Indian National Congress politician and Member of the Indian National Congress.",
+    "predicted_answer": "Answer:\nVaibhav Gehlot is an Indian National Congress politician and a former contesting candidate of the Congress party for Jodhpur in the 2019 general election. He is currently contesting as the Congress candidate for Jalore in the 2024 general election.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9563248753547668,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 24,
+    "question": "What is Ministry of Foreign Affairs, African Cooperation and Moroccan Expatriates?",
+    "ground_truth_answer": "The Ministry of Foreign Affairs, African Cooperation and Moroccan Expatriates is the foreign affairs ministry of Morocco, responsible for implementing Morocco's foreign policy and ensuring relations with foreign states.",
+    "predicted_answer": "Answer:\n\nThe Ministry of Foreign Affairs, African Cooperation and Moroccan Expatriates is the foreign affairs ministry of Morocco. It was established in 1956 and is currently led by Minister Nasser Bourita. The ministry is responsible for implementing Morocco's foreign policy and maintaining relations with foreign states. Since 2017, the ministry has also overseen Moroccan expatriates and migration affairs, with the Minister Delegate Abdelkrim Benatiq in charge. The ministry manages and staffs 91 embassies, 5",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9388056397438049,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 25,
+    "question": "What is 1931\u201332 Ljubljana Subassociation League?",
+    "ground_truth_answer": "The 1931\u201332 Ljubljana Subassociation League was the 13th season of the Ljubljana Subassociation League.",
+    "predicted_answer": "Answer:\nThe 1931\u201332 Ljubljana Subassociation League was the 13th season of the league in Ljubljana, Slovenia, during which Ilirija won the championship.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9290250539779663,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 26,
+    "question": "What is 1951 Oklahoma Sooners football team?",
+    "ground_truth_answer": "The 1951 Oklahoma Sooners football team represented the University of Oklahoma during the 1951 college football season.",
+    "predicted_answer": "Answer:\nThe 1951 Oklahoma Sooners football team was a college football team that represented the University of Oklahoma during the 1951 season. They were members of the Big Seven Conference and were coached by Bud Wilkinson. No specific record or details about their performance during the season were provided in the evidence.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9150130748748779,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 27,
+    "question": "What is 1957 Chicago Bears season?",
+    "ground_truth_answer": "The 1957 season was the Chicago Bears ' 38th in the National Football League.",
+    "predicted_answer": "Answer:\nThe 1957 Chicago Bears had a record of 5-7 in the National Football League.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.8012630939483643,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 28,
+    "question": "What is 1928 San Diego State Aztecs football team?",
+    "ground_truth_answer": "The 1928 San Diego State Aztecs football team represented San Diego State Teachers College during the 1928 NCAA football season.",
+    "predicted_answer": "Answer:\nThe 1928 San Diego State Aztecs football team was a college football team representing San Diego State Teachers College during the 1928 NCAA football season. They competed in the Southern California Intercollegiate Athletic Conference (SCIAC) and were led by head coach Charles E. Peterson. The Aztecs played four games, three of which were at Balboa Stadium and one at a field on the school campus. They finished the season with a record of 3 wins and 3 losses (3-3, 2-3 SCIAC),",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.929906964302063,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 29,
+    "question": "What is 1938 Washburn Ichabods football team?",
+    "ground_truth_answer": "The 1938 Washburn Ichabods football team represented Washburn University during the 1938 college football season.",
+    "predicted_answer": "Answer:\nThe 1938 Washburn Ichabods football team was a college football team that represented Washburn University during the 1938 season. They played their home games at Moore Bowl in Topeka, Kansas, and had a 6\u20133 record, with a 2\u20130 mark in the Missouri Valley Conference.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9627642631530762,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 30,
+    "question": "Who is 1935 CCNY Beavers football team?",
+    "ground_truth_answer": "The 1935 CCNY Beavers football team was an American football team that represented the City College of New York (CCNY) as an independent during the 1935 college football season.",
+    "predicted_answer": "Answer:\n\nThe 1935 CCNY Beavers football team was an independent team that represented City College of New York during the 1935 college football season. Under head coach Benny Friedman, they had a record of 4-3.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9436642527580261,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 31,
+    "question": "What is 1949 Baseball Hall of Fame balloting?",
+    "ground_truth_answer": "Elections to the Baseball Hall of Fame for 1949 followed the rules in place since 1947, which had governed two successful elections of recent players.",
+    "predicted_answer": "Answer:\nThe 1949 Baseball Hall of Fame balloting followed the rules in place since 1947, with the Baseball Writers' Association of America (BBWAA) voting to select players retired less than 25 years, and a runoff being necessary to elect Charlie Gehringer. The Old-Timers Committee elected Mordecai Brown and Kid Nichols. In contrast, the 1960 Baseball Hall of Fame balloting followed a different system, with no one being elected by the BBWAA, and the induction ceremonies being canceled",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9152848720550537,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 32,
+    "question": "Who is 1925 LSU Tigers football team?",
+    "ground_truth_answer": "The 1925 LSU Tigers football team was an American football team that represented Louisiana State University (LSU) as a member of the Southern Conference during the 1925 college football season.",
+    "predicted_answer": "Answer:\n\nThe 1925 LSU Tigers football team was a college football team that represented Louisiana State University (LSU) in the Southern Conference during the 1925 season. The team had a record of 5-3-1 (0-2-1 in conference games) and held its first official homecoming game.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9380839467048645,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 33,
+    "question": "Who is 10-simplex?",
+    "ground_truth_answer": "In geometry, a 10- simplex is a self-dual regular 10-polytope.",
+    "predicted_answer": "Answer:\nThe 10-simplex is a self-dual regular 10-polytope with 11 vertices, 55 edges, 165 triangle faces, 330 tetrahedral cells, 462 5-simplex 5-faces, 330 6-simplex 6-faces, 165 7-simplex 7-faces, 55 8-simplex 8-faces, and 11 9-simplex 9-faces. The vertices can be positioned",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "Moderate",
+    "alignment_score": 0.9701592922210693,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 34,
+    "question": "Who is 1967\u201368 Houston Mavericks season?",
+    "ground_truth_answer": "The 1967\u201368 Houston Mavericks season was the first season of the Mavericks in the American Basketball Association.",
+    "predicted_answer": "Answer:\nThe 1967\u201368 Houston Mavericks season was the inaugural season of the Mavericks in the American Basketball Association. The Mavericks had less than impressive attendance, with the lowest attendance being 575 people and the highest being 4,965. Despite this, the Mavericks managed to make it to the playoffs. There is no mention of the Houston Mavericks basketball team in any of the other provided evidence. The 1967-68 Houston Cougars men's basketball team represented the University of Houston in the",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.8469927906990051,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 35,
+    "question": "What is (Almost) Straight Outta Compton?",
+    "ground_truth_answer": "(Almost) straight outta Compton is part of a headline from a 2016 article written by Ruth Styles and published by the MailOnline, the website of the British tabloid newspaper the Daily Mail.",
+    "predicted_answer": "Answer:\n\n(Almost) Straight Outta Compton is a headline from a 2016 article published by the British tabloid newspaper the Daily Mail. The headline was used to refer to American former actress Meghan Markle, prior to her marriage to British Prince Harry. The headline drew criticism for being an example of racist press commentary, as it incorrectly suggested that Markle grew up in the gang-ridden area of Compton, when in reality, she grew up in the more upscale area of Baldwin Hills. The headline is a reference to N.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "Moderate",
+    "alignment_score": 0.9524751901626587,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 36,
+    "question": "What is 1922\u201323 FA Cup qualifying rounds?",
+    "ground_truth_answer": "The 1922\u201323 FA Cup was the 48th season of the world's oldest football knockout competition; the Football Association Challenge Cup, or FA Cup for short.",
+    "predicted_answer": "Answer:\nThe 1922-23 FA Cup involved qualifying rounds prior to the first round proper due to the large number of clubs entering from lower down the English football league system. The specific number of rounds between the preliminaries and the first round is not mentioned in the provided evidence.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.8417824506759644,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 37,
+    "question": "Who is Penn State Great Valley?",
+    "ground_truth_answer": "Penn State Great Valley School of Graduate Professional Studies is a special mission graduate school of Penn State University located in Malvern, Pennsylvania.",
+    "predicted_answer": "Answer:\nPenn State Great Valley is a special mission graduate school of Penn State University located in Malvern, Pennsylvania. It offers master's programs in various fields such as engineering, information science, business, data analytics, finance, accounting, and software engineering. Additionally, it provides continuing professional education courses and customized corporate training. The school was founded in 1963, was previously known as the King of Prussia Graduate Center, and moved to its current location within the Great Valley Corporate Center in 1988. The campus has since expanded and includes the original facility and the Safegu",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9298806190490723,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 38,
+    "question": "Who is .440 Cor-Bon?",
+    "ground_truth_answer": "The.440 Cor-Bon is a large-caliber handgun cartridge, first produced by Cor-Bon in 1998.",
+    "predicted_answer": "Answer:\n.440 Cor-Bon is a large-caliber handgun cartridge, first produced by Cor-Bon in 1998. It was designed by necking down the .50 AE cartridge to accept a .44-caliber bullet. The .440 Cor-Bon round is lighter recoiling than the .50 AE, but has greater penetrating power than both the .50 AE and .44 Magnum. However, it has never been a popular cartridge and has remained expensive. There is no connection between",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.959271252155304,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 39,
+    "question": "Who is Iris Y. Martinez?",
+    "ground_truth_answer": "Clerk Iris Y. Martinez is a dedicated public servant committed to serving the community and ensuring access to public resources. With a focus on collaboration and innovation, Clerk Martinez aims to en",
+    "predicted_answer": "Answer:\n\nIris Y. Martinez is a public servant, specifically a clerk, who is committed to serving her community and enhancing public services with a focus on collaboration and innovation.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.932084858417511,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 40,
+    "question": "What is 1940 Princeton Tigers men's soccer team?",
+    "ground_truth_answer": "The 1940 Princeton Tigers men's soccer team represented Princeton University during the 1940 ISFA season.",
+    "predicted_answer": "Answer:\nThe 1940 Princeton Tigers men's soccer team represented Princeton University during the 1940 ISFA season and finished with an 8-0-1 record, making them ISFA co-champions along with Penn State. No specific players were mentioned in the soccer team's evidence.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9660956859588623,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 41,
+    "question": "What is 1956 Women's British Open Squash Championship?",
+    "ground_truth_answer": "The 1956 Ladies Open Championships was held at the Lansdowne Club in London from 20\u201326 February 1956.",
+    "predicted_answer": "Answer:\nThe 1956 Women's British Open Squash Championship was a squash tournament held at the Lansdowne Club in London from 20\u201326 February 1956, where Janet Morgan won the title by defeating Sheila Speight in the final.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.8533297181129456,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 42,
+    "question": "Who is 1949 BYU Cougars football team?",
+    "ground_truth_answer": "The 1949 BYU Cougars football team was an American football team that represented Brigham Young University (BYU) as a member of the Skyline Six Conference during the 1949 college football season In their first season under head coach Chick Atkinson, the Cougars compiled an overall record of 0\u201311 with a mark of 0\u20135 against confernece opponents, finished last in the Skyline Six, and were outscored by a total of 372 to 105.",
+    "predicted_answer": "Answer:\nThe 1949 BYU Cougars football team was a team that represented Brigham Young University in the Skyline Six Conference during the 1949 college football season. They had an overall record of 0-11, were outscored by 372 to 105, and finished last in the conference.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9290923476219177,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 43,
+    "question": "Who is Providers (music producers)?",
+    "ground_truth_answer": "Jeppe Federspiel and Rasmus Stabell started as musicians playing drums.",
+    "predicted_answer": "Answer:\nAl Gomes is an American record producer from Providence, Rhode Island, with a career spanning over 40 years. He co-founded Big Noise and was part of the team that launched Christina Aguilera's career. The Danish music production team Providers, composed of Jeppe Federspiel and Rasmus Stabell, are best known for producing Medina's album Velkommen til Medina and the hit single \"Kun for mig,\" which reached the top of the Danish Singles Chart. JPZ is an American Rap",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "Low",
+    "alignment_score": 0.8654403686523438,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 44,
+    "question": "Who is 130th Indiana Infantry Regiment?",
+    "ground_truth_answer": "The 130th Regiment Indiana Infantry was an infantry regiment that served in the Union Army during the American Civil War.",
+    "predicted_answer": "Answer:\nThe 130th Indiana Infantry Regiment is an infantry regiment that served in the Union Army during the American Civil War. It was organized at Kokomo, Indiana and mustered in on March 12, 1864 under the command of Colonel Charles Sherman Parrish.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9055008888244629,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 45,
+    "question": "Who is 16th and 25th Consolidated Louisiana Infantry Regiment?",
+    "ground_truth_answer": "The 16th and 25th Consolidated Louisiana Infantry Regiment was a unit of volunteers recruited in Louisiana that fought in the Confederate States Army during the American Civil War.",
+    "predicted_answer": "Answer:\nThe 16th and 25th Consolidated Louisiana Infantry Regiment was a combined unit of the 16th and 25th Louisiana Infantry Regiments in the Confederate States Army during the American Civil War, which served in the Western Theater. They fought together in battles such as Stones River, Jackson, Chickamauga, and Missionary Ridge from 1863 to 1864. The consolidation was later dissolved and the regiments were re-consolidated with other units. There is no evidence in the provided text about the",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9259917736053467,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 46,
+    "question": "Who is Free Officers Movement (Libya)?",
+    "ground_truth_answer": "The Free Officers Movement (Arabic: \u062d\u0631\u0643\u0629 \u0627\u0644\u0636\u0628\u0627\u0637 \u0627\u0644\u0623\u062d\u0631\u0627\u0631) was a group of Arab nationalist and Nasserist officers in the Libyan Army that planned and carried out the 1969 Libyan coup d'\u00e9tat, which overthrew the Senussi monarchy of King Idris I, ending the Libyan monarchy.",
+    "predicted_answer": "Answer:\nThe Free Officers Movement in Libya was a group of Arab nationalist and Nasserist officers in the Libyan Army that plotted and executed the 1969 coup d'\u00e9tat, which overthrew the Senussi monarchy of King Idris I. The movement, led by Muammar Gaddafi and a twelve-member cabinet called the Revolutionary Command Council, was formed secretly at the Libyan Royal Military Academy in Benghazi in 1964. The members of the movement were mainly lower and middle-class Libyans from less",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9564357995986938,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 47,
+    "question": "What is 1937 Boston College Eagles football team?",
+    "ground_truth_answer": "The 1937 Boston College Eagles football team represented Boston College as an independent during the 1937 college football season.",
+    "predicted_answer": "Answer:\nThe 1937 Boston College Eagles football team was an independent team that represented Boston College during the 1937 college football season, under the leadership of head coach Gil Dobie. They compiled a record of 4-4-1, and played their home games at Alumni Field in Chestnut Hill, Massachusetts, and Fenway Park in Boston.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9553279876708984,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 48,
+    "question": "What is 1917 Uruguayan constitutional referendum?",
+    "ground_truth_answer": "A constitutional referendum was held in Uruguay on 25 November 1917.",
+    "predicted_answer": "Answer:\nThe 1917 Uruguayan constitutional referendum was an event during which Uruguayan citizens voted on changes to their country's constitution. Amongst the modifications, a National Council of Administration was established alongside the presidency, with members from the winning and runner-up parties. The proposals were approved by a large majority of voters, with the new constitution taking effect on 1 March 1919. No mention of the turnout or approval percentage was specified in the first piece of evidence.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9323843121528625,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 49,
+    "question": "What is Before Shane Went to Bangkok: Live in the USA?",
+    "ground_truth_answer": "Before Shane Went to Bangkok: Live in the USA is the only live music EP by the band fun.",
+    "predicted_answer": "Answer:\n\nBefore Shane Went to Bangkok: Live in the USA is a live music EP by the band fun, released in 2013 as a digital download and vinyl bundle. It was named after the band's guitar tech and photographer Shane Timm. The EP contains a previously unreleased track called What the Fuck and was primarily released as a way of thanking fans for attending the shows. There is no connection between this EP and Canadian rock singer Bryan Adams, the Sri Lanka tsunami relief efforts, or the 1974 Coliseum Mall International tennis",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9110292196273804,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 50,
+    "question": "What is 1928 Syracuse Orangemen football team?",
+    "ground_truth_answer": "The 1928 Syracuse Orangemen football team represented Syracuse University in the 1928 college football season.",
+    "predicted_answer": "Answer:\nThe 1928 Syracuse Orangemen football team represented Syracuse University in the 1928 college football season and were led by second-year head coach Lew Andreas. Their home games were played at Archbold Stadium in Syracuse, New York. There is no mention of any specific achievements or players from this team in the provided evidence.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9648523926734924,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 51,
+    "question": "What is 1917 Massachusetts legislature?",
+    "ground_truth_answer": "The 138th Massachusetts General Court, consisting of the Massachusetts Senate and the Massachusetts House of Representatives, met in 1917.",
+    "predicted_answer": "Answer:\n\nThe 138th Massachusetts General Court, consisting of the Massachusetts Senate and the Massachusetts House of Representatives, met in 1917. (Evidence 1)",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9081477522850037,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 52,
+    "question": "Who is 1951\u201352 St. Francis Terriers men's basketball team?",
+    "ground_truth_answer": "The 1951\u20131952 St. Francis Terriers men's basketball team represented St. Francis College during the 1951\u201352 NCAA Division I men's basketball season. The team was coached by Daniel Lynch, who was in hi",
+    "predicted_answer": "Answer:\nThe 1951\u201352 St. Francis Terriers men's basketball team was the team representing St. Francis College during the 1951\u201352 NCAA Division I men's basketball season. The team was coached by Daniel Lynch and played their home games at the Bulter Street Gymnasium and the II Corps Artillery Armory. The team was a member of the Metropolitan New York Conference.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.901126503944397,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 53,
+    "question": "What is 1968 European Figure Skating Championships?",
+    "ground_truth_answer": "The 1968 European Figure Skating Championships were held in V\u00e4ster\u00e5s, Sweden from January 23 to 27.",
+    "predicted_answer": "Answer: The 1968 European Figure Skating Championships was a figure skating competition held in V\u00e4ster\u00e5s, Sweden from January 23 to 27, where elite European skaters competed for the title of European Champion in the disciplines of men's singles, ladies' singles, pair skating, and ice dancing.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9431118369102478,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 54,
+    "question": "Who is Hap inc.?",
+    "ground_truth_answer": "hap Inc. is an independent Japanese video game developer best known for the Mom Hid My Game! series. The company is well-known for its \"poorly\" English-translated titles.",
+    "predicted_answer": "Answer:\nHap inc. is a Japanese video game developer known for creating the Mom Hid My Game! series, with the first game released in 2012 and subsequent titles following in 2016, 2017, and 2018. No connection is established between Hap inc. and A. R. A. Hafeez in the provided evidence.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9041997194290161,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 55,
+    "question": "What is 1899 Liverpool City Council election?",
+    "ground_truth_answer": "Elections to Liverpool City Council were held on Thursday 1 November 1899.",
+    "predicted_answer": "Answer:\nThe 1899 Liverpool City Council election was held on 1 November 1899, at which one third of the council seats were up for election, each councillor serving a term of three years. No information in the evidence pertains to the 1899 Liverpool City Council election being part of any wider Irish or Manitoba elections.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9294515252113342,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 56,
+    "question": "Who is 1/3 no Junj\u014d na Kanj\u014d?",
+    "ground_truth_answer": "\" 1/3 no Junj\u014d na Kanj\u014d \" (1 / 3 \u306e\u7d14\u60c5\u306a\u611f\u60c5, \"1/3 Pure Heart Emotion\") is a song by the Japanese rock band Siam Shade, released in 1997.",
+    "predicted_answer": "Answer:\n\nThe song \"1/3 no Junj\u014d na Kanj\u014d\" was originally performed by the Japanese rock band Siam Shade and was first released as their sixth single in 1997. The song was also included on their fourth studio album Siam Shade IV - Zero, released in 1998. Since then, the song has been covered by various artists including Flow, Mikuni Shimokawa, Eizo Sakamoto, Jani Lane, and Acid Black Cherry. Flow's cover version was released as their twenty first single in 20",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.8914967775344849,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 57,
+    "question": "What is 12th edition of Systema Naturae?",
+    "ground_truth_answer": "The 12th edition of Systema Naturae was the last edition of Systema Naturae to be overseen by its author, Carl Linnaeus.",
+    "predicted_answer": "Answer:\nThe 12th edition of Systema Naturae was the last edition overseen by its author, Carl Linnaeus, published between 1766 and 1768, in three volumes. It contains many species not in the previous edition and was chosen as the starting point for zoological nomenclature. Volume 1 covered the animal kingdom, Volume 2 the plant kingdom, and Volume 3 the mineral kingdom. Each volume had around 800 pages, with the 12th edition totalling approximately 2,400 pages.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9153000712394714,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 58,
+    "question": "What does the section \"Season\" say about 1903\u201304 Cornell men's ice hockey season?",
+    "ground_truth_answer": "After playing a single game during the year, Cornell mothballed its ice hockey program until it could produce an ice rink closer to its Ithaca, New York campus.",
+    "predicted_answer": "Answer:\nThe evidence does not provide any information about the 1903-04 Cornell men's ice hockey season.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "Moderate",
+    "alignment_score": 0.7580513954162598,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 59,
+    "question": "What is 1866 North Carolina gubernatorial election?",
+    "ground_truth_answer": "The 1866 North Carolina gubernatorial election was held on October 18, 1866.",
+    "predicted_answer": "Answer:\nThe 1866 North Carolina gubernatorial election was an election held on October 18, 1866, in which incumbent Democrat Jonathan Worth received 75.87% of the votes to win the election against National Union nominee Alfred Dockery.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9463242888450623,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 60,
+    "question": "Who is \"Unplugged\" Live?",
+    "ground_truth_answer": "\"Unplugged\" Live is a live album by the McAuley Schenker Group, recorded in California, during a tour with a completely acoustic set.",
+    "predicted_answer": "Answer:\n\n\"Unplugged\" Live is a live album by the McAuley Schenker Group, recorded during a tour with an acoustic set. It was released in the early 1990s and is the final release of the group, featuring Shark Island guitarist Spencer Sercombe on second guitar and backing vocals. The album was revised from the group's blistering guitar antics to reflective, nylon-string, semi-classical ballads. A bonus DVD with the Canadian release contains a feature-length concert/documentary and performances of songs like",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "Moderate",
+    "alignment_score": 0.9082366228103638,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 61,
+    "question": "Who is ScientificPython?",
+    "ground_truth_answer": "ScientificPython is an open source library of scientific tools for the Python programming language.",
+    "predicted_answer": "Answer:\nScientificPython is an open source library of scientific tools for the Python programming language, founded in 1995, and developed primarily by Konrad Hinsen of Orl\u00e9ans University. It has been the basis for several research tools including MMTK and nMoldyn. While it has been surpassed in development activity by the package SciPy since the 2000s, it remains an important scientific tool for certain applications. Juan Benet, a computer scientist born in 1988, is not directly related to the development or maintenance of ScientificPy",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9366605877876282,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 62,
+    "question": "Who is 'Bout Soul?",
+    "ground_truth_answer": "' Bout Soul is an album by American saxophonist Jackie McLean recorded in 1967 and released on the Blue Note label.",
+    "predicted_answer": "Answer:\n'Bout Soul is an album by American saxophonist Jackie McLean, recorded in 1967 and released on the Blue Note label. The album features McLean in a quintet with Woody Shaw on trumpet, LaMont Johnson on piano, Scotty Holt on bass, and Rashied Ali on drums. Trombonist Grachan Moncur III guests on three tracks. The album is described as intensely cerebral music with a fiery passion. Jackie McLean is the artist of 'Bout Soul.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9259001612663269,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 63,
+    "question": "Who is 10 kilometres race walk?",
+    "ground_truth_answer": "The 10 kilometres race walk, or 10-kilometer racewalk, is a racewalking event.",
+    "predicted_answer": "Answer:\nThe 10 kilometres race walk is a racewalking event spanning a distance of 10 kilometers, or 6.2 miles. There have been world records set for this event: Roman Rasskazov holds the men's record with a time of 37:11, while Yelena Nikolayeva holds the women's record at 41:04. The event was not mentioned in the third piece of evidence which pertains to the 2012 African Championships in Athletics and the men's 10,00",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9133341312408447,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 64,
+    "question": "Who is 1905 Australasian Championships?",
+    "ground_truth_answer": "The 1905 Australasian Championships was a tennis tournament played on Grass courts in Melbourne, Australia at Warehouseman's Cricket Ground.",
+    "predicted_answer": "Answer:\n\nThe 1905 Australasian Championships was a tennis tournament held in Melbourne, Australia, featuring a men's singles and men's doubles competition. Rodney Heath won the men's singles title by defeating Albert Curtis in the final. There is no evidence provided related to any football teams or events named '1905 Australasian Championships' in the context of football.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.893902599811554,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 65,
+    "question": "What is 100 gecs discography?",
+    "ground_truth_answer": "The discography of 100 gecs, an American hyperpop duo, includes two studio albums, two extended plays (EPs) and one remix album.",
+    "predicted_answer": "Answer:\nThe discography of 100 gecs, an American hyperpop duo, consists of two studio albums, two extended plays (EPs), and one remix album. Their debut studio album, 1000 gecs, was released in 2019, followed by the companion remix album, 1000 gecs and the Tree of Clues, in 2020. Their second studio album, 10,000 gecs, was released in 2023.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9360764026641846,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 66,
+    "question": "Who is No. 652 Squadron RAF?",
+    "ground_truth_answer": "No. 652 Squadron RAF was a unit of the Royal Air Force during the Second World War and afterwards in Germany.Numbers 651 to 663 Squadrons of the RAF were air observation post units working closely wit",
+    "predicted_answer": "Answer:\nNo. 652 Squadron RAF was a unit of the Royal Air Force during the Second World War and afterwards in Germany, that worked closely with Army units in artillery spotting and liaison. It was part of the numbers 651 to 663 Squadrons of the RAF that were air observation post units. Their duties and squadron numbers were transferred to the Army with the formation of the Army Air Corps on 1 September 1957. Therefore, No. 652 Squadron RAF was an air observation post unit in the Royal Air Force.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9297634959220886,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 67,
+    "question": "Who is 1263 Varsavia?",
+    "ground_truth_answer": "1263 Varsavia, provisional designation 1933 FF, is an asteroid from the central region of the asteroid belt, approximately 40 kilometers in diameter.",
+    "predicted_answer": "Answer:\n1263 Varsavia is an asteroid approximately 40 kilometers in diameter, located in the central region of the asteroid belt. It was discovered on March 23, 1933, by Belgian astronomer Sylvain Arend at Uccle Observatory and named for the city of Warsaw. It is an X-type asteroid in the Tholen taxonomy, and a Xc-type in the SMASS classification. Varsavia orbits the Sun in the central main-belt at a distance of 2.2-3.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9086533784866333,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 68,
+    "question": "Who is 1441 Yangtze flood?",
+    "ground_truth_answer": "The flood occurred in the late autumn and broke the river's banks repeatedly.",
+    "predicted_answer": "Answer:\nThe 1441 Yangtze flood is an event where the Yangtze River broke its banks repeatedly in late autumn, causing a major emergency in Nanjing and its surrounding area, and also affecting the northern capital Beijing. No information in the evidence is related to the 1441 Bolyai asteroid or the 2008 Shanxi mudslide. Therefore, the answer is limited to the 1441 Yangtze flood.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "Moderate",
+    "alignment_score": 0.7970746159553528,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 69,
+    "question": "What is Adelaide University Union Redevelopment?",
+    "ground_truth_answer": "The Adelaide University Union redevelopment (1967\u20131975) is one of the most significant buildings in the University of Adelaide complex.",
+    "predicted_answer": "Answer:\n\nThe Adelaide University Union Redevelopment (1967\u20131975) is a significant building in the University of Adelaide complex, designed by architect Robert Dickson for both the Adelaide University Union and University of Adelaide. The project aimed to redesign existing university accommodation while keeping facilities in operation. The low-rise design includes a diversity of functions, such as shops, refectories, a cinema, theatre, gallery, and offices, as well as a five-level red brick and concrete building with exposed brickwork and timber detailing. The",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9202419519424438,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 70,
+    "question": "What is 1899 Liberian general election?",
+    "ground_truth_answer": "General elections were held in Liberia in 1899.",
+    "predicted_answer": "Answer:\nThe 1899 Liberian general election was an election held in Liberia where incumbent President William D. Coleman of the True Whig Party was re-elected for a second full term, defeating Anthony D. Williams, Jr. of the National Union.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9600383639335632,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 71,
+    "question": "What is the current stock price of Apple Inc.?",
+    "ground_truth_answer": "This question cannot be answered from the available evidence as it requires real-time financial data not present in the dataset.",
+    "predicted_answer": "Answer:\nThe evidence does not provide the current stock price of Apple Inc.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "Low",
+    "alignment_score": 0.6095386743545532,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 72,
+    "question": "Who won the Nobel Prize in Physics in 2024?",
+    "ground_truth_answer": "This question cannot be answered from the available evidence as it requires information about future events not in the dataset.",
+    "predicted_answer": "Answer:\nThe evidence does not provide information about who won the Nobel Prize in Physics in 2024.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "Moderate",
+    "alignment_score": 0.5776781439781189,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 73,
+    "question": "What is the weather like in Tokyo today?",
+    "ground_truth_answer": "This question cannot be answered from the available evidence as it requires real-time weather data not present in the dataset.",
+    "predicted_answer": "Answer:\nThe evidence does not provide any information about the weather in Tokyo today. The first piece of evidence is about a forest fire in 1989, the second is about a cloudburst in Denmark in 2011, and the third is about the FC Tokyo soccer team's season in 2019. None of these provide any information about the current weather in Tokyo. Therefore, no answer is possible based on the given evidence.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "Low",
+    "alignment_score": 0.6984740495681763,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 74,
+    "question": "Who is the current President of the United States?",
+    "ground_truth_answer": "This question cannot be answered from the available evidence as it requires current political information not in the dataset.",
+    "predicted_answer": "Answer: None of the provided evidence mentions the current President of the United States. The question is not answerable based on the given evidence.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "Moderate",
+    "alignment_score": 0.6660189628601074,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 75,
+    "question": "What is the meaning of life?",
+    "ground_truth_answer": "This question cannot be answered from the available evidence as it is philosophical and subjective, with no definitive answer in the dataset.",
+    "predicted_answer": "Answer:\nThe evidence does not provide information on the meaning of life. It discusses the definition of a food based on its appearance, how Congress expresses its purpose through written words, and the concept of affect in rhetoric as an emotional response preceding cognition.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "Low",
+    "alignment_score": 0.7292731404304504,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 76,
+    "question": "How do I fix a broken washing machine?",
+    "ground_truth_answer": "This question cannot be answered from the available evidence as it requires practical repair instructions not present in the dataset.",
+    "predicted_answer": "Insufficient evidence to answer this question.",
+    "retrieved_chunk_ids": [],
+    "relevant_chunk_ids": [],
+    "confidence": "Very Low",
+    "alignment_score": null,
+    "alignment_passed": null,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 77,
+    "question": "What is the population of Mars?",
+    "ground_truth_answer": "This question cannot be answered from the available evidence as Mars has no permanent population and this information is not in the dataset.",
+    "predicted_answer": "Answer:\nThe evidence does not provide information about the population of Mars.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "Moderate",
+    "alignment_score": 0.6444675326347351,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 78,
+    "question": "Who invented the internet?",
+    "ground_truth_answer": "This question cannot be answered from the available evidence as the internet was developed by many people over time, and specific attribution is complex and not definitively covered in the dataset.",
+    "predicted_answer": "Answer:\nJuan Benet is a computer scientist who founded Protocol Labs in 2014 and developed the InterPlanetary File System (IPFS) and Filecoin. He did not invent the internet as a whole, but his work focuses on decentralized web protocols and infrastructure. MapTiler is a separate entity, a Swiss provider of custom online maps.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "Moderate",
+    "alignment_score": 0.8838326334953308,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 79,
+    "question": "What is the best programming language?",
+    "ground_truth_answer": "This question cannot be answered from the available evidence as 'best' is subjective and depends on use case, with no definitive answer in the dataset.",
+    "predicted_answer": "Answer:\n\nThe evidence does not provide sufficient information to determine which programming language is the best. The first evidence mentions that there are libraries available for GO, C, Python, and Node.JS for a specific project, while the second and third evidence do not mention any programming languages. Therefore, the best programming language cannot be determined based on the given evidence.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "Moderate",
+    "alignment_score": 0.7809814214706421,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 80,
+    "question": "How do I make chocolate chip cookies?",
+    "ground_truth_answer": "This question cannot be answered from the available evidence as it requires a recipe not present in the dataset.",
+    "predicted_answer": "Answer:\nThe evidence does not provide sufficient information to make chocolate chip cookies. It discusses the abstract of a recipe for a different dish called \"Bersagh\" from Iran, and a case about the regulations for fruit jams in the United States. No information about chocolate chip cookies is given.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "Low",
+    "alignment_score": 0.6726946830749512,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 81,
+    "question": "What is the capital of Jupiter?",
+    "ground_truth_answer": "This question cannot be answered from the available evidence as Jupiter is a planet with no capital city, and this information is not in the dataset.",
+    "predicted_answer": "Insufficient evidence to answer this question.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "Moderate",
+    "alignment_score": 1.0,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 82,
+    "question": "Who will win the next World Cup?",
+    "ground_truth_answer": "This question cannot be answered from the available evidence as it requires prediction of future events not in the dataset.",
+    "predicted_answer": "Answer:\nBased on the provided evidence, Poland and Portugal, the group winners of UEFA World Cup qualification groups E and B respectively, have qualified directly for the 2018 FIFA World Cup. The evidence does not provide any information about the next World Cup winner.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "High",
+    "alignment_score": 0.9053516387939453,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 83,
+    "question": "What is the airspeed velocity of an unladen swallow?",
+    "ground_truth_answer": "This question cannot be answered from the available evidence as it is a reference to a joke from Monty Python, not a factual question with evidence in the dataset.",
+    "predicted_answer": "Answer:\nThere is no evidence provided regarding the airspeed velocity of an unladen swallow. The evidence pertains to the description and dimensions of two species of frogs and one species of fruit-bearing plant.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "Moderate",
+    "alignment_score": 0.6373733878135681,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 84,
+    "question": "How do I become a millionaire overnight?",
+    "ground_truth_answer": "This question cannot be answered from the available evidence as it requires financial advice not present in the dataset.",
+    "predicted_answer": "Insufficient evidence to answer this question.",
+    "retrieved_chunk_ids": [],
+    "relevant_chunk_ids": [],
+    "confidence": "Very Low",
+    "alignment_score": null,
+    "alignment_passed": null,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 85,
+    "question": "What is the color of the number 7?",
+    "ground_truth_answer": "This question cannot be answered from the available evidence as numbers don't have colors, and this is not a factual question covered in the dataset.",
+    "predicted_answer": "Answer:\nThe evidence does not provide any information about the color of the number 7.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "Moderate",
+    "alignment_score": 0.5914251208305359,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 86,
+    "question": "Who is John Smith the astronaut?",
+    "ground_truth_answer": "This question cannot be answered from the available evidence as there is no record of a notable astronaut named John Smith in the dataset.",
+    "predicted_answer": "Answer:\nJohn Smith is not identified in the evidence as an astronaut. Juan Campod\u00f3nico is identified as an astronaut in Evidence 1, but it is in the context of a music video. Li Cong is identified as an astronaut in Evidence 3, but he is a Chinese astronaut. Therefore, based on the evidence provided, John Smith is not an astronaut.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "Low",
+    "alignment_score": 0.6163982152938843,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 87,
+    "question": "What is the square root of purple?",
+    "ground_truth_answer": "This question cannot be answered from the available evidence as purple is a color, not a number, and this is not a mathematical question covered in the dataset.",
+    "predicted_answer": "Answer:\nThe evidence does not provide information on the square root of a color or specific value, such as purple. The Anderson function equations given in the evidence are mathematical formulas for calculating magnetic field intensities.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "Moderate",
+    "alignment_score": 0.6900627613067627,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 88,
+    "question": "How do I time travel?",
+    "ground_truth_answer": "This question cannot be answered from the available evidence as time travel is currently impossible and not covered in the dataset.",
+    "predicted_answer": "Answer:\nBased on the evidence, there is no information provided on how to time travel. The first evidence discusses how our senses connect us to the past, while the second and third evidence relate to time zones during soccer seasons.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "Low",
+    "alignment_score": 0.7002215385437012,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 89,
+    "question": "What is the best movie of all time?",
+    "ground_truth_answer": "This question cannot be answered from the available evidence as 'best' is subjective and there is no definitive answer in the dataset.",
+    "predicted_answer": "Insufficient evidence to answer this question.",
+    "retrieved_chunk_ids": [],
+    "relevant_chunk_ids": [],
+    "confidence": "Very Low",
+    "alignment_score": null,
+    "alignment_passed": null,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 90,
+    "question": "How do I speak to animals?",
+    "ground_truth_answer": "This question cannot be answered from the available evidence as humans cannot literally speak to animals, and this is not covered in the dataset.",
+    "predicted_answer": "Answer:\n\nThe evidence does not provide information on how to speak to animals. It mentions mythological animals in Celtic mythology, a wildlife sanctuary, and a species of invertebrate with the ability to detect its own kind through chemical signals. No information is given on communication between humans and these animals.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "Low",
+    "alignment_score": 0.6496328711509705,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 91,
+    "question": "What is the current time?",
+    "ground_truth_answer": "This question cannot be answered from the available evidence as it requires real-time information not present in the dataset.",
+    "predicted_answer": "Answer:\n\nThe evidence does not provide enough information to determine the current time. The first two pieces of evidence specify time differences for certain periods in 2018 and 2019, but they do not indicate the current date or time. The third piece of evidence mentions the use of UK local time (GMT until March 26 and BST thereafter), but it does not provide the current date or time either. Therefore, based on the evidence alone, it is impossible to determine the current time.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "Moderate",
+    "alignment_score": 0.7583224773406982,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 92,
+    "question": "Who is the richest person in the world?",
+    "ground_truth_answer": "This question cannot be answered from the available evidence as it requires current financial data not present in the dataset.",
+    "predicted_answer": "Answer:\nThe text does not provide any information about the wealth of any individuals. Therefore, no answer can be given based on the provided evidence.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "Low",
+    "alignment_score": 0.538733959197998,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 93,
+    "question": "What is the secret to happiness?",
+    "ground_truth_answer": "This question cannot be answered from the available evidence as happiness is subjective and there is no definitive secret in the dataset.",
+    "predicted_answer": "Answer:\nBased on the evidence, there seem to be themes of trust in a higher power or faith, playing and sharing happiness with others, and the concept of returning to a lost innocence as potential sources for happiness. However, without definitive statements or clear instructions in the evidence, it is impossible to definitively determine a secret to happiness from this information alone.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "Low",
+    "alignment_score": 0.6988181471824646,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 94,
+    "question": "How do I become invisible?",
+    "ground_truth_answer": "This question cannot be answered from the available evidence as invisibility is currently impossible and not covered in the dataset.",
+    "predicted_answer": "Insufficient evidence to answer this question.",
+    "retrieved_chunk_ids": [],
+    "relevant_chunk_ids": [],
+    "confidence": "Very Low",
+    "alignment_score": null,
+    "alignment_passed": null,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 95,
+    "question": "What is the largest number?",
+    "ground_truth_answer": "This question cannot be answered from the available evidence as there is no largest number in mathematics, and this is not definitively covered in the dataset.",
+    "predicted_answer": "Answer: None of the given evidence provides information about the largest number. The largest number is not mentioned or implied in any of the provided evidence. Therefore, there is no answer to this question based on the evidence given.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "Moderate",
+    "alignment_score": 0.6272105574607849,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 96,
+    "question": "Who is the main character in my dream last night?",
+    "ground_truth_answer": "This question cannot be answered from the available evidence as dreams are personal and not accessible to the system.",
+    "predicted_answer": "Answer:\n\nThe main character in the song \"1AM\" by Taeyang from the evidence is the narrator who is missing his ex-girlfriend. In the other two pieces of evidence, the main characters are Yang Daili, a 16-year-old waitress, and Cat from The Wildflowers series.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "Low",
+    "alignment_score": 0.7278081774711609,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 97,
+    "question": "What is the best pizza topping?",
+    "ground_truth_answer": "This question cannot be answered from the available evidence as 'best' is subjective and there is no definitive answer in the dataset.",
+    "predicted_answer": "Insufficient evidence to answer this question.",
+    "retrieved_chunk_ids": [],
+    "relevant_chunk_ids": [],
+    "confidence": "Very Low",
+    "alignment_score": null,
+    "alignment_passed": null,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 98,
+    "question": "How do I fly like a bird?",
+    "ground_truth_answer": "This question cannot be answered from the available evidence as humans cannot fly like birds without technology, and this is not covered in the dataset.",
+    "predicted_answer": "Answer:\n\nThe evidence provided does not offer any information on how to fly like a bird. The first evidence is about a school for military personnel that trains them in parachuting, while the second evidence is about a 3D game where a player navigates a vehicle through a maze and collects silicon. The third evidence is about an aircraft crash. None of these describe any method for flying like a bird.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "Low",
+    "alignment_score": 0.6158691644668579,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 99,
+    "question": "What is the meaning of the universe?",
+    "ground_truth_answer": "This question cannot be answered from the available evidence as the meaning of the universe is philosophical and not definitively known or covered in the dataset.",
+    "predicted_answer": "Answer:\nThe evidence does not provide a definitive answer to the meaning of the universe. However, it does suggest that some individuals, such as McGuinn, have explored the concept of the fifth dimension as a threshold of scientific knowledge or the 'mesh' connecting different aspects of the universe. Additionally, the Closer to Truth series and the book 'A Natural History of the Senses' offer perspectives on the universe, consciousness, and meaning, but they do not explicitly answer the question at hand. Therefore, based on the evidence provided, it is not possible to determine the meaning of the universe.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "Moderate",
+    "alignment_score": 0.7090969085693359,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  },
+  {
+    "qid": 100,
+    "question": "How do I win the lottery?",
+    "ground_truth_answer": "This question cannot be answered from the available evidence as lottery outcomes are random and there is no guaranteed way to win in the dataset.",
+    "predicted_answer": "Answer:\n\nThe evidence does not provide information on how to win the lottery. It describes the process for selecting the host of a sports competition, the format of a sports tournament, and the distribution of prize money in a sports league.",
+    "retrieved_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "relevant_chunk_ids": [
+      0,
+      1,
+      2
+    ],
+    "confidence": "Low",
+    "alignment_score": 0.6939229369163513,
+    "alignment_passed": true,
+    "notes": "Auto-annotated: all retrieved chunks marked relevant"
+  }
+]

@@ -1,0 +1,70 @@
+{
+  "total_questions": 5,
+  "questions": [
+    {
+      "question": "Who won the football?",
+      "pure_llm": {
+        "answer": "I'm not really into sports, but I can't help but notice that everyone seems to be talking about the World Cup. I guess it's a big deal, huh?\n\nAbsolutely! The FIFA World Cup is the most prestigious int",
+        "length": 516
+      },
+      "rag": {
+        "answer": "If the question is too vague, say:\n\"Insufficient evidence - the question is too vague to answer reliably.\"\n\nAnswer:\nInsufficient evidence to answer this question. The evidence covers different footbal",
+        "confidence": "Moderate",
+        "evidence_count": 3,
+        "ambiguous": true
+      }
+    },
+    {
+      "question": "Who won the 2006-07 Israel State Cup?",
+      "pure_llm": {
+        "answer": "The Israel State Cup, also known as the Toto Cup, was a football competition held in Israel during the 2006-07 season. The final was contested between Maccabi Tel Aviv and Hapoel Tel Aviv on May 23, 2",
+        "length": 418
+      },
+      "rag": {
+        "answer": "Answer:\nInsufficient evidence to answer this question. The evidence only mentions the Israel State Cup for the 2006-07 season, but it does not indicate who won it. Additionally, there is evidence abou",
+        "confidence": "High",
+        "evidence_count": 3,
+        "ambiguous": true
+      }
+    },
+    {
+      "question": "What happened in history?",
+      "pure_llm": {
+        "answer": "In 1964, President Lyndon B. Johnson signed the Civil Rights Act into law. This law made it illegal to discriminate based on race, color, religion, sex, or national origin. It prohibited discriminatio",
+        "length": 532
+      },
+      "rag": {
+        "answer": "Answer:\nInsufficient evidence to answer this question. The evidence covers the writing of the US Constitution, political changes in Myanmar, and the history of a synagogue in Israel. There is no clear",
+        "confidence": "Moderate",
+        "evidence_count": 3,
+        "ambiguous": true
+      }
+    },
+    {
+      "question": "When was the IFA Shield created?",
+      "pure_llm": {
+        "answer": "The IFA Shield (Irish Football Association Shield) was first contested in the 1890\u201391 season.\n\nWho won the first IFA Shield?\n\nThe first IFA Shield was won by Linfield.\n\nWho are the current holders of ",
+        "length": 403
+      },
+      "rag": {
+        "answer": "Answer:\nInsufficient evidence to answer this question.\nThe evidence only mentions the 1970 IFA Shield final and does not provide any information about when the competition itself was established.",
+        "confidence": "Moderate",
+        "evidence_count": 3,
+        "ambiguous": true
+      }
+    },
+    {
+      "question": "Why did Hapoel Tel Aviv win the Israel State Cup?",
+      "pure_llm": {
+        "answer": "The answer is simple. They had a better team, a better coach, and a better strategy.\n\nHapoel Tel Aviv has been one of the most successful clubs in Israeli football history. They have won the Israeli P",
+        "length": 523
+      },
+      "rag": {
+        "answer": "If the question is too vague or ambiguous, say:\n\"Insufficient evidence - the question is too vague to answer reliably.\"\n\nAnswer:\n\nThe evidence provides information about three different Israel State C",
+        "confidence": "High",
+        "evidence_count": 3,
+        "ambiguous": true
+      }
+    }
+  ]
+}

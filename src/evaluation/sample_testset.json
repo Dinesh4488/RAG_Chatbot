@@ -1,0 +1,62 @@
+[
+  {
+    "qid": 1,
+    "question": "What is photosynthesis?",
+    "ground_truth_answer": "Photosynthesis is the process by which plants, algae, and some bacteria convert light energy from the sun into chemical energy stored in glucose, using carbon dioxide and water.",
+    "predicted_answer": null,
+    "retrieved_chunk_ids": [],
+    "relevant_chunk_ids": [],
+    "confidence": null,
+    "alignment_score": null,
+    "alignment_passed": null,
+    "notes": ""
+  },
+  {
+    "qid": 2,
+    "question": "Who was Marie Curie?",
+    "ground_truth_answer": "Marie Curie was a Polish physicist and chemist who conducted pioneering research on radioactivity and was the first woman to win a Nobel Prize.",
+    "predicted_answer": null,
+    "retrieved_chunk_ids": [],
+    "relevant_chunk_ids": [],
+    "confidence": null,
+    "alignment_score": null,
+    "alignment_passed": null,
+    "notes": ""
+  },
+  {
+    "qid": 3,
+    "question": "What is the capital of France?",
+    "ground_truth_answer": "Paris is the capital and largest city of France.",
+    "predicted_answer": null,
+    "retrieved_chunk_ids": [],
+    "relevant_chunk_ids": [],
+    "confidence": null,
+    "alignment_score": null,
+    "alignment_passed": null,
+    "notes": ""
+  },
+  {
+    "qid": 4,
+    "question": "What does the DNA molecule do?",
+    "ground_truth_answer": "DNA (deoxyribonucleic acid) is a molecule that carries genetic instructions for life, containing the information needed to build and repair cells.",
+    "predicted_answer": null,
+    "retrieved_chunk_ids": [],
+    "relevant_chunk_ids": [],
+    "confidence": null,
+    "alignment_score": null,
+    "alignment_passed": null,
+    "notes": ""
+  },
+  {
+    "qid": 5,
+    "question": "Who invented the telephone?",
+    "ground_truth_answer": "Alexander Graham Bell is credited with inventing the telephone, patenting the device in 1876.",
+    "predicted_answer": null,
+    "retrieved_chunk_ids": [],
+    "relevant_chunk_ids": [],
+    "confidence": null,
+    "alignment_score": null,
+    "alignment_passed": null,
+    "notes": ""
+  }
+]
